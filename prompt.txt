@@ -1,0 +1,1 @@
+Write the funniest weather forecast, one line of at most 120 characters, for a city that does not exist. It must read like a real flat official weather bulletin that breaks on its own absurd weather: name the invented city, give it weather that is itself the joke (not a pun bolted on), and make the city feel like a real place with a detail that fits its weather. No wasted words.
